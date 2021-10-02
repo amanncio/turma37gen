@@ -7,15 +7,15 @@ programa
 		
 		escreva("Digite o valor de A: ")
 		leia(a)
-		escreva("Digite o valor de A: ")
+		escreva("Digite o valor de B: ")
 		leia(b)
-		escreva("Digite o valor de A: ")
+		escreva("Digite o valor de C: ")
 		leia(c)
-		escreva("Digite o valor de A: ")
+		escreva("Digite o valor de D: ")
 		leia(d)
-		escreva("Digite o valor de A: ")
+		escreva("Digite o valor de E: ")
 		leia(E)
-		escreva("Digite o valor de A: ")
+		escreva("Digite o valor de F: ")
 		leia(f)
 
 		x= ((c*E) - (b*f)) / ((a*E) - (b*d))
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 497; 
+ * @POSICAO-CURSOR = 321; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

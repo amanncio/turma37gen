@@ -19,7 +19,7 @@ programa
 		//VARIAVEIS
 		const real VALORHORANORMAL = 10.00
 		const real VALORHORAEXTRA = 20.00
-		const inteiro HORASNORMAIS = 50.00
+		const inteiro HORASNORMAIS = 50
 		
 		cadeia c
 		inteiro n
@@ -65,7 +65,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1230; 
+ * @POSICAO-CURSOR = 617; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
