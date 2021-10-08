@@ -17,9 +17,40 @@ public class ecommerce {
 		codigo = leia.nextInt();
 		
 		switch(codigo) {
-		case 1:
+			case 1:
+				adicionaCarrinho();
+				break;
+			case 2:
+				adicionaCarrinho();
+				break;
+			case 3:
+				adicionaCarrinho();
+				break;
+			case 4:
+				adicionaCarrinho();
+				break;
+			case 5:
+				adicionaCarrinho();
+				break;	
+			case 6:
+				adicionaCarrinho();
+				break;
+			case 7:
+				adicionaCarrinho();
+				break;		
+			case 8:
+				adicionaCarrinho();
+				break;		
+			case 9:
+				adicionaCarrinho();
+				break;	
+			case 10:
+				adicionaCarrinho();
+				break;	
+			default:
+				System.out.print("Digite um código válido!!!");
 		}
-
+		
 	}
 
 }
